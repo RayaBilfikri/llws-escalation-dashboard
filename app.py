@@ -477,7 +477,7 @@ current_time = current_row["monitor_time"]
 st.markdown(
     f"""
     <div class="hero-card">
-        <div class="hero-title">🌬️ LLWS Escalation Monitoring Prototype</div>
+        <div class="hero-title">LLWS Escalation Monitoring Prototype</div>
         <div class="hero-subtitle">
             A decision-support dashboard for monitoring probabilistic Low-Level Wind Shear escalation risk
             using multi-runway AWOS surface observations.
