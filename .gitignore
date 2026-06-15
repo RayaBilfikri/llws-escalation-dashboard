@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# Jangan upload file asli/full checkpoint
+df_eval_d16_final.parquet
+df_binary_d16_final.parquet
+shear_feature_engineered_final.parquet
+llws_phase1_regression_final.parquet
+binary_llws_operational_model.pkl
+binary_llws_model.pkl
+binary_model_d15_forecastingmodel.pkl
+df_binary_d15_forecastingmodel.parquet
+df_classification_final.parquet
+df_eval_d15_forecastingmodel.parquet
+
+# Izinkan file demo publik
+!df_eval_demo.parquet
