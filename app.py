@@ -12,7 +12,6 @@ from sklearn.metrics import confusion_matrix
 # ============================================================
 st.set_page_config(
     page_title="LLWS Escalation Monitoring Prototype",
-    page_icon="🌬️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
